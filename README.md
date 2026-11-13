@@ -39,5 +39,5 @@ reverse side of the note. The photographs are stored without cropping or image m
 | 10 Birr | 5 | 5 | 10 |
 | 50 Birr | 5 | 5 | 10 |
 | 100 Birr | 5 | 5 | 10 |
-| 200 Birr | 4 | 6 | 10 |
-| **Total** | **24** | **26** | **50** |
+| 200 Birr | 5 | 5 | 10 |
+| **Total** | **25** | **25** | **50** |
